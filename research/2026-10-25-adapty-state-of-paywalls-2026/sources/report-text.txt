@@ -1,0 +1,420 @@
+State of Paywalls 2026 | Adapty Report
+State of paywalls 2026
+State of Paywalls 2026
+State of paywalls 2026
+How 78,000 paywalls convert viewers into paying users across 5 regions and 8 categories.
+Baseline
+Pricing & packaging
+Paywall design
+Placement & timing
+Testing & personalization
+Adapty is the revenue OS
+for subscription apps
+$5Brevenue tracked30K+apps4Busers served99.99%historical SLA
+$5Brevenue tracked30K+apps4Busers served99.99%historical SLA
+Max BorisikProduct Lead, Flow & Paywall Builder at Adapty
+Most of the work happens around the paywall
+For years, paywall optimization was mostly about the screen itself: rewrite the headline, move the price, add a discount, try a new design. We gave that advice too.
+But after looking at the data for this report, it’s hard to think about paywalls that way anymore.
+An onboarding paywall converts almost 4× better than a paywall shown later in the app. What works in the US doesn’t necessarily work in Europe. And the apps that test the most aren’t spending all their time changing colors and copy. They test the things that can actually change the offer: plans, trials, pricing, and who sees what.
+There probably isn’t one perfect paywall you can find, ship, and forget about. The best apps keep changing the experience depending on the user, the market, and the moment — and keep testing what works.
+That’s what this year’s State of Paywalls is about. You’ll still see what a typical paywall looks like, but we spend much more time on everything around it: pricing and packaging, placement and timing, design, testing, and personalization.
+Baseline
+First, the benchmarks. We look at paywall conversion across regions, how top-performing apps compare, and where users drop off between seeing a paywall and becoming a subscriber.
+Where users drop
+Median app, all plans. Switch regions to compare.
+US paywalls convert 2–4× more users
+Europe converts at half the US rate. 1.38% of paywall viewers convert in Europe vs. 2.75% in the US.
+What works in the US may not work elsewhere. Education ranks #3 in the US but #7 in APAC, LATAM, and MEA.
+Weekly plans favor visual categories. Graphics & Design and Photo & Video lead in 4 of 5 regions.
+Median paywall view → paid conversion within 30 days, by region and category
+Adapty, 2026. Median paywall view → paid conversion, %. Tap a category to highlight.
+In every region, the top 10% beat the typical US app
+Top apps beat the US benchmark everywhere. The top 10% start at 3.30% in MEA and reach 5.71% in Europe, vs. 2.75% for the typical US app.
+The gap within regions is even bigger. Outside the US, the top 10% convert 4–5× more users than the median app.
+View → paid conversion across apps by region, compared with the US median
+Middle 50% of apps
+Median
+Top 10% start here
+US median
+Your conversion rate
+%
+See where you land in each region.
+Adapty, 2026. View → paid, percent of paywall viewers.
+Other regions are closing the conversion gap with the US
+Conversion rose everywhere but the US. Europe grew 18%, APAC 11%, LATAM 5%, and MEA 13%. The US fell 14%.
+The gap narrowed most in absolute terms in MEA. The US-to-MEA gap fell from 5.2× to 3.9×; the US-to-Europe gap went from 2.7× to 2×.
+Lifestyle grew across every non-US region. Europe led at +55%, followed by APAC and LATAM at +40% and MEA at +36%.
+Median paywall view → paid conversion by region, FY24–FY26
+Adapty, 2026. All apps, all plans. FY runs October–September.
+Health & Fitness has the lowest trial start rate outside the US
+Health & Fitness ranks last in every non-US region. Trial starts range from 1.46% in LATAM and MEA to 2.93% in Europe.
+It also has the biggest gap with the US. US apps get 3.9× more trial starts than apps in LATAM and MEA.
+Median paywall view → trial start rate by region and category
+Adapty, 2026.
+Once users start a trial, region matters less
+The regional gap narrows after the trial starts. US apps convert 26.2% of trials vs. 15.1% in MEA — a 1.7× gap, compared with 3.9× for view → paid.
+Health & Fitness converts the most trials in every region. Rates range from 19.8% in MEA to 33.3% in the US.
+For Health & Fitness, the bigger drop happens before the trial. Outside the US, trial starts lag much more than trial → paid conversion.
+Median trial → paid conversion by region and category
+Adapty, 2026.
+44% of trials are canceled within 24 hours — most within the first hour
+Most day-one cancellations happen fast. 32% of trials are canceled within the first hour, rising to 44% within 24 hours.
+Fewer early cancellations correlate with higher trial conversion. Health & Fitness and Education have the fewest cancellations and the highest trial → paid rates.
+Europe has the highest day-one cancellation rate. 55% of trials are canceled within 24 hours, vs. 40% in the US and 34% in MEA.
+Median trial cancellation rate within 1 and 24 hours
+Adapty, 2026.
+Hard paywalls start more trials, but drive fewer direct purchases
+Hard paywalls push more users into trials. In the same app, 4.7% of viewers start a trial on a hard paywall, compared with 3.2% on a soft one.
+But soft paywalls drive more direct purchases. 0.75% buy immediately on a soft paywall vs. 0.50% on a hard one.
+There’s no clear winner overall. When trials and direct purchases are combined, hard paywalls perform better in 57% of apps.
+How hard and soft paywalls convert
+View → trial start
+View → direct purchase
++48%more trial starts−33%fewer direct purchases
+Adapty, 2026. Median conversion within the same app. Hard paywall = no close button.
+What this means for your app
+1
+Don't copy your US paywall across markets
+Category performance changes by region. Test your paywall in each market you sell in.
+2
+Benchmark against the best apps in your region
+The top 10% in every region already outperform the typical US app. Local leaders are a better benchmark.
+3
+If trial starts are low, start with the paywall
+Most of the regional gap happens before the trial. Once users start one, the gap gets much smaller.
+4
+Make the first hour count
+Most day-one cancellations happen in the first hour. Use it to onboard users and demonstrate value fast.
+Pricing & packaging
+Next, pricing and packaging. We look at what apps charge, which plans they offer, how they use trials and discounts, and how those choices relate to conversion and revenue.
+The typical app charges $6.99/week, $9.99/month, or $39.99/year
+Annual prices drop outside the US; weekly prices don’t. Annual plans fall from $39.99 in the US to $30.11 in LATAM, while weekly prices stay close to $6.99.
+Europe is the most expensive region. Median prices reach $8.06/week, $11.55/month, and $40.88/year.
+Health & Fitness is the cheapest category. The typical plan costs $5.33/week and $29.99/year.
+Median subscription price by region and category, USD
+Adapty, 2026.
+Weekly plans bring 62% of subscription revenue
+Weekly plans dominate subscription revenue. They account for 62% of revenue overall, compared with 21% for annual and 12% for monthly plans.
+The mix changes significantly by region. Weekly plans account for 76% of revenue in LATAM and 70% in MEA, but only 50% in Europe, where annual and monthly plans play a bigger role.
+Category matters even more than region. Health & Fitness gets 62% of its revenue from annual plans, while Entertainment gets 81% from weekly plans.
+Subscription revenue by plan length and region
+Adapty, 2026. Share of subscription revenue, %. Oct 2025–Sep 2026.
+Apps with two plan lengths have 67% higher conversion
+Most paywalls offer one or two plan lengths. 41% offer one, 39% two, and only 20% three or more.
+More plans don’t always mean better conversion. In A/B tests, more products win only 53% of the time.
+How many plan lengths apps offer
+Adapty, 2026.
+Pre-selection works much better for weekly plans than annual plans
+Annual and weekly are the most common pre-selected plans. 43% of paywalls pre-select annual and 37% weekly.
+Buyers are twice as likely to stick with weekly. 90% choose weekly when it’s pre-selected, vs. 46% for annual.
+Pre-selecting annual doesn’t hurt conversion. Paywalls with annual pre-selected convert about as well as those with weekly.
+Which plans apps pre-select, by category
+90%of buyers choose weekly when it’s pre-selected
+46%of buyers choose annual when it’s pre-selected
+Adapty, 2026. Share of paywalls by pre-selected plan and resulting purchases.
+14% of apps offer a lifetime plan, but it generates just 1% of revenue
+For apps that offer lifetime, it’s still a small revenue stream. Lifetime accounts for 5.6% of revenue in the typical app that sells it.
+Lifetime typically costs 1.3× an annual plan. In Entertainment and Lifestyle, it costs about the same as a year; in Graphics & Design, 1.7×.
+Health & Fitness offers lifetime most often. 20% of apps sell it, compared with 10% in Photo & Video.
+Lifetime plans by category
+Apps offering lifetimeLifetime price vs. annual
+Adapty, 2026. Share of apps offering lifetime; price compared with annual.
+8 in 10 trials last 3 days or less — but longer isn’t always better
+Most trials last 3 days or less. 79% of trial starts are 1–3 days; only 20% last 4–7 days.
+Longer trials see fewer day-one cancellations. This holds across weekly, monthly, and annual plans.
+But longer trials don’t always convert better. 3-day trials perform better on weekly plans, while 7-day trials perform better on monthly and annual plans.
+Trial length and performance
+Adapty, 2026.
+Discounts up to 30% have little impact on revenue. Deeper discounts do.
+Small discounts have a limited revenue impact. With up to 30% off, subscribers generate 90% as much revenue over six months as full-price subscribers.
+Deep discounts are expensive. At 31–60% off, subscribers generate 70% as much revenue; above 60% off, just 46%.
+Offers work much better for win-back. 56% of returning subscribers who take an offer are still paying three months later, compared with about 1 in 10 new users who start with one.
+Revenue after a first-payment discount
+56%of returning subscribers are still paying 3 months later
+~1 in 10new users who start with an offer are still paying 3 months later
+Adapty, 2026. Six-month revenue per subscriber, indexed to full price = $100.
+How often apps discount — and by how much
+Adapty, 2026.
+Paywall design
+Next, the paywall itself. Using paywall data from , we look at how top subscription apps structure their paywalls, which elements they use, and what design choices are linked to higher conversion.
+The typical paywall has two plans, annual pre-selected, and a free trial
+Two plans is the standard. 62% of paywalls show two plans, and 73% present their plans as cards.
+Annual is the default choice. 67% of paywalls pre-select annual, compared with 16% monthly and 5% weekly.
+Most paywalls sell the trial, not the product. 66% offer a free trial, and most make it the CTA. Meanwhile, more than half use no image and only 27% show social proof.
+Anatomy of a high-performing paywall
+×
+image1
+2
+★★★★★3
+✓
+✓
+✓
+4
+Save X%5
+6
+Start free trial7
+7 days free, then $54.99/year.
+Cancel anytime.8
+Image54% of paywalls use no image
+Headline21% mention “free”
+Social proof27% use social proof
+Feature checklist48% use a checklist
+Annual pre-selected67% pre-select annual, 41% show a “Save X%” badge
+Plan cards73% use cards, 62% show two plans
+Free trial on the button66% offer a trial, 83% mention it in the CTA
+Line about cancelling61% use it, 68% say “cancel anytime”
+Mobbin iOS screenshots, analyzed by Adapty, 2026. Top-performing paywalls from the same sample of 100.
+Most paywalls keep plan choice simple
+Two plans is the most common setup. 62% of paywalls show two plans; only 20% show three.
+Some apps hide extra plans. 12% put additional options behind a “View all plans” link.
+Tiers and billing switches are still uncommon. 16% offer product tiers such as Pro or Family, and 13% let users switch between monthly and annual billing.
+How apps present their plans
+12%hide extra plans behind “View all”16%offer product tiers13%use a monthly / annual switch10%offer a lifetime plan
+Mobbin iOS screenshots, analyzed by Adapty, 2026. 100 paywalls.
+6 in 10 paywalls show the full annual price — only 4% break it down by week
+Most paywalls show the full annual price. 62% show the yearly amount, while 24% break it down by month.
+Weekly price framing is rare. Only 4% show the annual plan as a weekly price.
+Savings are usually shown with a badge. 41% use a “Save X%” badge, while 16% show a crossed-out price.
+How apps display annual pricing
+41%use a “Save X%” badge16%show a crossed-out price
+Mobbin iOS screenshots, analyzed by Adapty, 2026. 100 paywalls.
+With a trial, paywalls focus on reassurance. Without one, they focus on value.
+Trial paywalls focus on reassurance. 74% include reassurance near the CTA, compared with 37% without a trial. They’re also more likely to show awards or press mentions.
+Without a trial, paywalls have to show more value. They’re twice as likely to use an image and more likely to highlight features and savings.
+Trials usually come with annual pre-selection. 78% of trial paywalls pre-select annual, compared with 48% without a trial.
+How paywall design changes with a free trial
+With a trial (54)Without a trial (27)
+Mobbin iOS screenshots, analyzed by Adapty, 2026. 100 main paywalls of well-known subscription apps.
+Paywall headlines sell “free” more than anything else
+Headlines are short. The typical headline is 5 words, and 79% use 6 words or fewer.
+Most headlines sell access, a trial, or an outcome. “Access / Premium,” free trial, and outcome-led headlines together account for more than half.
+Personalization is almost nonexistent. Only 2% use what the app knows about the user, such as their name, goal, or quiz answers.
+How apps write paywall headlines
+Mobbin iOS screenshots, analyzed by Adapty, 2026. 100 paywalls.
+More than half of paywall buttons sell the trial
+Trial language dominates. 56% of buttons lead with the trial, and half include the word “free.” “Start free trial” alone appears on 36%.
+“Continue” is the main alternative. 23% use “Continue” or a variation of it, avoiding both trial and purchase language.
+Very few buttons ask users to buy. Only 9% use direct purchase language such as “Subscribe,” “Buy now,” or “Purchase.”
+Most common paywall CTA copy
+Mobbin iOS screenshots, analyzed by Adapty, 2026. 78 paywalls with readable CTA copy.
+1 in 10 apps removes the close button. 2 in 10 delay it
+Hard paywalls are still rare. 11% of apps use a paywall with no close button, accounting for just 2% of Builder paywall views.
+But apps that use them, use them heavily. In the median app with a hard paywall, 94% of its paywall views are hard. 4 in 10 show no other type.
+Hard paywalls mostly live in onboarding. 57% of hard paywall views happen during onboarding, compared with 29% for other paywalls.
+Delaying the close button is twice as common. 22% of apps delay it, usually by just 3–5 seconds. Only 2% of delayed buttons take more than 10 seconds to appear.
+How apps control when users can close a paywall
+Share of apps with at least one paywall of each type
+Where paywall views happen
+Wait before the close button appears, share of delayed paywalls
+Adapty, 2026. Paywall views in the past 12 months. Hard paywall = no close button.
+What this means for your app
+1
+Know when you’re following the default
+If your paywall has two plan cards, annual pre-selected, and a free-trial CTA, you’re using the market’s most common setup. That’s a benchmark, not a best practice.
+2
+Test what most paywalls still ignore
+Social proof, awards, trial timelines, weekly price framing, and personalized headlines are still rare. They’re obvious places to look for your next test.
+3
+Carry onboarding context into the paywall
+Almost no paywalls use what the user already told the app. Bring their goal, answers, or choices into the headline and offer instead of showing everyone the same paywall.
+4
+Decide whether you’re selling the trial or the product
+With a trial, paywalls lean on “free” and reassurance. Without one, they work harder to show value. Make that choice deliberately — then test it.
+Placement & timing
+Next, the timing. We look at when users are most likely to buy, how onboarding paywalls compare with later placements, and what happens after users close the paywall.
+The first session wins — but 38% of revenue starts later
+Onboarding still brings most revenue. 53% comes from subscriptions started during the first session, compared with 38% from later paywalls.
+For some categories, later matters just as much. In Lifestyle and Utilities, 48% of revenue starts after the first session — slightly more than during onboarding.
+Monthly subscriptions start later more often. 47% of monthly revenue comes from subscriptions started after the first session, compared with 38% for weekly and 32% for annual.
+Where subscription revenue starts
+Adapty, 2026. Share of subscription revenue by where the subscription started, %.
+93% of first purchases happen on Day 0
+Day 0 dominates. 93% of first purchases happen within 24 hours of install, generating 89% of first-90-day revenue.
+Monthly buyers take longer to convert. 81% buy on Day 0, compared with 88% of annual and 92% of weekly buyers.
+Later buyers look more valuable — but timing isn’t the reason. They generate 23% more revenue over 90 days, but the gap almost disappears when comparing the same plan. Later buyers simply choose longer plans and direct purchase more often.
+When new users make their first purchase
+Adapty, 2026. New users, first 90 days.
+6 in 10 buyers purchase on the first paywall view
+Most buyers decide quickly. 60% purchase on the first paywall view, and another 15% on the second.
+More views rarely mean more days. 84% of buyers who purchase on the second view or later still do so within 24 hours of their first paywall view.
+Some categories need much more exposure. Only 40% of Health & Fitness and 44% of Photo & Video buyers purchase on the first view. About a quarter need five views or more.
+Paywall view that led to purchase
+84%of buyers on the 2nd+ view bought within 24 hours of the first view4%of buyers in the typical app return on another day to purchase
+Adapty, 2026. Share of buyers by paywall view, first 90 days after install.
+Onboarding paywalls convert almost 4× better
+Onboarding converts almost 4× better. The typical app converts 0.85% of onboarding views to paid, compared with 0.23% of later views.
+Each onboarding view is worth 4× more. It generates $170 per 1,000 views, compared with $40 from later paywalls.
+But most paywall views happen later. 7 in 10 views come after the first session — and they still generate 38% of subscription revenue.
+How onboarding and later paywalls perform
+Adapty, 2026. Median paywall view → paid conversion.
+96% of apps give up after the first paywall
+Second-chance offers are rare. Only 4% of apps show another paywall immediately after the first one is closed.
+But they convert almost as well as the first paywall. Within the same app, second-chance paywalls convert at 0.88× the rate of the main paywall — and outperform it in 45% of apps.
+Most apps make the second offer meaningfully cheaper. The typical discount is 38%, and a quarter offer 50% off or more.
+How apps make a second-chance offer
+4%of apps show a second-chance paywall38%typical discount0.88×conversion vs. the main paywall
+Adapty, 2026. Second-chance paywalls shown immediately after the first paywall is closed.
+What this means for your app
+1
+Make the first session your strongest monetization moment
+93% of first purchases happen on Day 0, and onboarding paywalls convert almost 4× better than later ones. Put your strongest paywall experience where users are most ready to buy.
+2
+Don’t treat a paywall close as the end
+40% of buyers need more than one paywall view before they purchase. Keep creating relevant reasons to show the paywall again instead of relying on a single shot.
+3
+Build a monetization journey beyond onboarding
+7 in 10 paywall views happen after the first session, and subscriptions started later still generate 38% of revenue. Plan where the next paywall appears — not just the first one.
+4
+Test a second chance after the close
+Only 4% of apps show another offer immediately after a paywall is closed, yet these second-chance paywalls convert at 0.88× the rate of the main one. Test whether a different offer can recover users who weren’t ready the first time.
+Testing & personalization
+Next, the experiments. We look at how often apps test, which paywall changes actually win, and what happens when the experience is personalized to the user.
+A quarter of large apps run 21+ paywall tests a year
+Large apps test every few weeks. Among apps with 500K+ monthly paywall views, the top quarter run 21+ tests a year. The top 10% run 55+ — more than one a week.
+You don’t need massive traffic to test regularly. Among apps with 50K–500K monthly paywall views, the top quarter still run 9+ tests a year, and the top 10% run 24+.
+How often the most active apps test
+Adapty, 2026. A/B tests started per app over 12 months, by monthly paywall views.
+Offer changes win more often than visual changes
+Localization and trial changes win most often. 62% of localization tests and 60% of trial tests increase LTV, followed closely by plan duration at 59%.
+Visual changes are the weakest bet. Only 35% of visual or copy tests increase LTV, and 31% improve conversion.
+Price tests trade conversion for value. Only 28% improve conversion, but 46% increase LTV.
+Which paywall changes are most likely to win
+Increase LTVIncrease conversion
+Adapty, State of In-App Subscriptions 2026. Share of A/B tests that increased each metric, %.
+Annual-first paywalls delivered the biggest lifts in our tests
+Annual-first layouts delivered the biggest lifts. Pre-selecting annual and putting the trial there increased ARPU by 25–40%.
+Trial education and personalization also moved revenue. Explaining how the trial works lifted ARPU by 12–36%, while personalized onboarding increased it by 13–35%.
+Smaller changes can still move conversion. Social proof, stronger visuals, and changes to how the trial is presented delivered roughly 10–30% lifts in winning tests.
+The biggest lifts we’ve seen in A/B tests
+ARPUConversionRevenue
+Adapty, 2026. Observed uplift ranges from winning A/B tests. Results vary by app.
+8 in 10 apps use more than one paywall
+Most apps use multiple paywalls. 80% have at least two in use, and 44% use five or more.
+More traffic comes with more paywalls. 72% of apps with 500K+ monthly paywall views use five or more, compared with 38% of apps under 50K.
+How many paywalls apps use
+Adapty, 2026. Share of apps, %.
+Apps personalize paywalls by market and device — rarely by the user
+Only 1 in 4 apps personalize their paywalls. Adoption rises with scale: about half of apps with 50K+ monthly paywall views show different paywalls to different audiences.
+Top-performing apps personalize more often. Among mid-size apps, 69% of the top 10% by revenue per view personalize, compared with 42% of the rest.
+Most personalization is still contextual. 61% split by country or language, 44% by app version, and 43% by platform. Only 15% use their own user attributes and 6% personalize by acquisition source.
+How apps personalize their paywalls
+Country, version, deviceAbout the user
+Adapty, 2026. Share of apps using paywall audience targeting, %.
+What this means for your app
+1
+Test the offer before the cosmetics
+Localization, trials, and plan changes win more often than visual or copy tweaks. Start with the mechanics of the offer before polishing how it looks.
+2
+Build a testing habit, not a one-off test
+The most active large apps run 21+ tests a year, and even mid-size apps in the top quarter run 9+. Keep a pipeline of experiments instead of waiting for the perfect idea.
+3
+Don’t stop at one paywall
+8 in 10 apps use multiple paywalls, and the number grows with scale. Build different experiences for different moments and audiences instead of trying to make one paywall work for everyone.
+4
+Personalize around the user, not just their device
+Most personalization still stops at country, language, or platform. User goals, onboarding answers, subscription status, and acquisition source give you much richer signals to test.
+This report is based on 78,000+ paywalls from 30,000+ apps. Benchmarks cover the last 12 months, October 2025 to September 2026, and we use 2024 data to show how things changed. The data covers the App Store. Revenue is shown in USD, after refunds but before store fees.
+Privacy
+We only use aggregated, anonymized data. No app, company, or user can be identified.
+Segmentation
+We break down results by region, category, billing cycle, and trial vs. direct purchase. Some sections also compare onboarding with later paywalls.
+Regions, countries,
+and categories
+We cover the US, Europe, LATAM, MEA, and APAC across 8 major App Store categories.
+Those categories are Education, Entertainment, Graphics & Design, Health & Fitness, Lifestyle, Photo & Video, Productivity, and Utilities. We use each app’s primary category. Apps outside these 8 still count toward the overall numbers; we just don’t show them as separate categories.
+Data quality
+We calculate benchmarks app by app, so the largest apps don’t skew the results.
+We only show a benchmark when at least 20 apps qualify.
+We remove test purchases and users with more than 500 paywall views a year.
+We convert prices to USD using the exchange rate on the day of the transaction. European prices include VAT.
+Statistical approach
+Most benchmarks use medians and percentiles. When comparing two strategies, we use same-app or A/B test data whenever possible.
+When we show a combined number across all apps, we call it “in total.”
+Paywall design
+For Chapter 3, we manually analyzed 100 iOS paywalls from top subscription apps using Mobbin screenshots. This chapter describes common design patterns, not their impact on conversion.
+100+ charts. One question away.
+Use State of Paywalls 2026 as a Claude Skill to benchmark your paywall, check pricing, and find your next test.
+Add the skill
+/state-of-paywalls-2026-by-adapty My Health & Fitness app sells mostly in Europe. Annual is $49.99 and pre-selected, with a free trial. 21% of trials convert to paid. How do I compare?
+Using skill state-of-paywalls-2026-by-adapty
+Against the report’s benchmarks for Health & Fitness in Europe:
+Your trial → paid21%
+Median, H&F Europe27.4%
+Median, H&F US33.3%
+Conversion is below typical. The median app in your segment converts 27.4% of trials.
+Your annual price is high for the category. The typical Health & Fitness annual plan is $29.99.
+Annual pre-selection is standard. 63% of Health & Fitness paywalls do the same.
+Next test: explain how the trial works before the paywall. In Adapty’s tests, a trial explainer lifted ARPU by 12–36%.
+Reply to Claude…
+Your next paywall should be better than your last
+Build, personalize, and test paywalls in Adapty.
+Book a demo
+Start for free
+Your entire monetization experience. Yours to build
+Build, personalize, and test every screen from onboarding to purchase. All in one place, without code or app releases.
+Meet Adapty Builder
+Unlimited
+creativity awaits
+TabsMonthlyYearlyPro$7.99/monthUnlimited imagesNo watermarks50+ stylesFull AI editorSubscribeCountdown01days:11hours:44minsTrial toggleFree trialJoin 50,000+ usersImageBadgeSave 66%
+“I tried every AI app out there. This one actually delivers.”
+James M., verified user
+Every market  gets its own paywall. No extra releases
+Tailor pricing, subscription plans, copy, and design to each market. Make changes in Adapty and publish them instantly.
+Personalize by countryPublished to 5 marketsNo app update
+Unlimited
+creativity awaits
+MonthlyYearlySave 37%Pro$59.99/yearUnlimited imagesNo watermarks50+ stylesFull AI editorSubscribe
+Unbegrenzte
+Kreativität wartet
+MonatlichJährlichSpare 37%Pro59,99 €/JahrUnbegrenzte BilderKein Wasserzeichen50+ StileVoller KI-EditorAbonnieren
+Creatividad
+ilimitada te espera
+MensualAnualAhorra 37%Pro59,99 €/añoImágenes ilimitadasSin marca de agua50+ estilosEditor de IASuscribirse
+Criatividade
+ilimitada te espera
+MensalAnualEconomize 37%ProR$ 299,90/anoImagens ilimitadasSem marca d’água50+ estilosEditor de IAAssinar
+無限の
+創造力 を、今すぐ
+月額年額37%お得Pro¥9,800/年画像生成し放題透かしなし50以上のスタイルAIエディター登録するEnglishDeutschEspañolPortuguês日本語
+Your price  is too important to be a guess
+Test different prices, plans, and offers on real users. Measure the impact on conversion, revenue, and LTV, not just clicks.
+Test your pricing
+Unlimited
+creativity awaits
+MonthlyYearlyPro$7.99/monthUnlimited imagesNo watermarks50+ stylesFull AI editorSubscribe
+Unlimited
+creativity awaits
+MonthlyYearlySave 40%Pro$59.99/yearUnlimited imagesNo watermarks50+ stylesFull AI editorStart 3 days freeA Monthly firstB Yearly + trialConversion to paidVariant AVariant B+11%Revenue per userAB
+Build paywalls from Claude Code
+Or import a Figma frame, or describe it to the AI chat in Adapty. Every route ends in a native paywall you ship without an app release.
+Build with Claude Code
+Unlimited
+creativity awaits
+MonthlyYearlyPro$7.99/monthUnlimited imagesNo watermarks50+ stylesFull AI editorSubscribeTerminal~/art-app$ claude› /flow-generator✓ Skill loadedAdapty Flow Generator› AI art app, yearly plan first, 3-day trial✓ Paywall created in AdaptyFigmaImport a frameAI chatDescribe it
+Build the journey  to your best-converting paywall
+Design the entire first session as one flow — from the first question to the final offer. Personalize every path, test what works, and ship changes without an app release.
+Personalize your flow
+Create anything you can imagine
+Let’s go!
+What do you want to create?
+Digital artSocial mediaAdsJust for funContinue
+Digital art,
+great pick!
+84%Tuning your art styles…
+Your digital art studio is ready
+Save 40%Pro$7.99/monthUnlimited images50+ stylesStart creating
+Social media,
+got it!
+62%Picking feed formats…
+Content for every feed, every day
+Pro$4.99/weekUnlimited images50+ stylesTry 3 days free
+The right paywall is different for every user
+Personalize the experience using what users tell you in onboarding — or what you already know from the campaign that brought them in.
+Personalize your paywalls
+Anna, your plan for work is ready
+3 days free, just for you
+MonthlyYearlyPro for teams$59.99/yrBrand stylesNo watermarksStart 3 days free
+Leo, your creator kit is here
+50% off your first month
+MonthlyYearlyCreator$3.99/mo50+ stylesUnlimited imagesClaim 50% offRuleCame fromTikTokShow→Pro for teamsRuleCame fromShow→50% offuser.nameAnnauser.nameLeo
